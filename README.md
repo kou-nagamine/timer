@@ -1,16 +1,10 @@
 # timer
 
-A new Flutter project.
+分、秒、ミリ秒が測れるタイマーです。
 
-## Getting Started
+## UI
+|タイマーストップ中|タイマースタート中|
+| -- | -- |
+|![9DF7DA90-666B-4164-BDE2-0EF85013B2DD](https://github.com/kou-nagamine/timer/assets/136679628/6b935b08-ddbf-4ef9-a9cc-1721cc596191)|![D1C196E7-99F1-4F05-A83C-C4DB8C8C908D](https://github.com/kou-nagamine/timer/assets/136679628/a72c9536-5214-4ebe-a0c3-71a3e5775c89)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
